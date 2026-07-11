@@ -1,0 +1,2 @@
+ASSISTANT_NAME = "RUDRA"
+USER_NAME = "Devendra"

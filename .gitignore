@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# Environment Variables
+.env
+
+# Logs
+*.log
+logs/
+
+# Temporary Files
+temp/
+tmp/
+
+# Python cache
+.pytest_cache/
+
+# OS Files
+Thumbs.db
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Database
+*.db
+*.sqlite3
+
+# Temporary audio
+temp.wav
+*.wav
+
+# Generated voice files
+engine/*.mp3
+
+# Runtime data
+data/history.txt
+data/memory.txt
+data/memory.json
+data/reminders.txt
+data/remainders.txt
+data/tasks.txt
+data/todo.txt
